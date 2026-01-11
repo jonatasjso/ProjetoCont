@@ -2,7 +2,7 @@
 * Informação de versão e autoria
 *
 * Criação:
-* Autor: 3S Jônatas 
+* Autor: 3S Jônatas
 * Versão inicial: 1.0
 *
 * Histórico de atualizações:
@@ -14,6 +14,7 @@
 * @updatedBy 3S Maclean
 * @version 1.1
 */ -->
+
 <?php // Configurações do banco de dados
 $servername = "localhost";
 $username = "root";
